@@ -1,9 +1,7 @@
-  💫 Hi 👋, I'm Amit Singh,
+ # 💫 Hi 👋, I'm Amit Singh
+**A passionate 🧠 Web development ||  💻 Java Programmer ||  🌐 IoT Maker from India.**
 
-   A passionate 🧠 Web Developer || 💻 Java Programmer || 🌐 IoT Maker from India.
-
-  📩 Email Me 👉 ✉️ amit.singh29004@gmail.com for collaboration, projects, or anything exciting! 😊😊
-
+Email Me 👉 ✉️ **amit.singh29004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - 🔭 **I’m currently working on:* AI-powered Video Dubbing Website using Python, Flask, and MoviePy
 -📱 Also building a Smart Water Quality Monitoring System using ESP32, TDS Sensor & Blynk
 - 👯 **I’m currently learning : ⚙️ new technologies and frameworks to stay up-to-date in the fast-moving tech world 🚀
